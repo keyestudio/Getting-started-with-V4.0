@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Getting started with V4.0'
+project = 'Getting started with Arduino'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 
